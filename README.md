@@ -6,4 +6,8 @@
    
 # DRONE SIMULATOR IN GEBZE TECHNICAL UNIVERSITY MAP
 
+# EMBEDDED PART - HAND GESTURE
+
 Youtube link: https://youtu.be/xQJXUZrwLos
+
+
